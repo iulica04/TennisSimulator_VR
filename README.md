@@ -3,7 +3,6 @@
 **Echipa:**
 - **Vreme Iulia**
 - **Pirlac Diana-Andreea**
-
 ---
 
 ## Documentație
