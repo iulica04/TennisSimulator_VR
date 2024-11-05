@@ -1,4 +1,4 @@
-# Tennis Simulator 🎾
+# TennisSimulator 🎾
 
 **Echipa:**
 - **Vreme Iulia**
