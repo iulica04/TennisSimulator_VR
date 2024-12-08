@@ -9,6 +9,7 @@
 - [📄 TennisSimulator Modelare 1](https://docs.google.com/document/d/1uZ0Rvk8hRSy6OR-FSK8GFXTh8IL0AnO2FY_tVB47WR0/edit)
 - [📄 TennisSimulator  2](https://docs.google.com/document/d/1F4W0tIOBeACVRsP9o2qlwMeZLWYKegbhOZs52mgxQ2A/edit?tab=t.0)
 - [📄 TennisSimulator  3](https://docs.google.com/document/d/1RbwwnwzA4JzjUdeDuMxs-vIv1iam7CJkLORddaSTuFQ/edit?tab=t.0)   +  [📄 VideoProgress]( https://youtu.be/IyfN3VY7aKA)
+- [📄 Video Progres Saptamana10]( https://youtu.be/IyfN3VY7aKA)
 - 📄ImaginiProgres:
 
 ![Captura_de_ecran_2024-11-14_161644](https://github.com/user-attachments/assets/525ad870-a1e6-4196-955d-fea37198bf32)
