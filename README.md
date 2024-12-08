@@ -9,7 +9,7 @@
 - [📄 TennisSimulator Modelare 1](https://docs.google.com/document/d/1uZ0Rvk8hRSy6OR-FSK8GFXTh8IL0AnO2FY_tVB47WR0/edit)
 - [📄 TennisSimulator  2](https://docs.google.com/document/d/1F4W0tIOBeACVRsP9o2qlwMeZLWYKegbhOZs52mgxQ2A/edit?tab=t.0)
 - [📄 TennisSimulator  3](https://docs.google.com/document/d/1RbwwnwzA4JzjUdeDuMxs-vIv1iam7CJkLORddaSTuFQ/edit?tab=t.0)   +  [📄 VideoProgress]( https://youtu.be/IyfN3VY7aKA)
-- [📄 Video Progres Saptamana10](https://drive.google.com/drive/folders/1T1JQAh-tx4Ho3sl48RiFgekzsChTdTec?dmr=1&ec=wgc-drive-globalnav-goto) + [📄 TennisSimulator  10]([https://docs.google.com/document/d/1RbwwnwzA4JzjUdeDuMxs-vIv1iam7CJkLORddaSTuFQ/edit?tab=t.0](https://docs.google.com/document/d/1Ii9JwHK4wgBsSnM1XM_py_KLoy8p-_Aahmva7__jYvo/edit?tab=t.0#heading=h.v9qnittsrjyh)) 
+- [📄 Video Progres Saptamana10](https://drive.google.com/drive/folders/1T1JQAh-tx4Ho3sl48RiFgekzsChTdTec?dmr=1&ec=wgc-drive-globalnav-goto) + [📄 TennisSimulator  10](https://docs.google.com/document/d/1Ii9JwHK4wgBsSnM1XM_py_KLoy8p-_Aahmva7__jYvo/edit?tab=t.0#heading=h.v9qnittsrjyh)
 
 - 📄ImaginiProgres:
 
