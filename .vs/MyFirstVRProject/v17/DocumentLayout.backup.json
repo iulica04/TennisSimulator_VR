@@ -1,0 +1,239 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ivrem\\Desktop\\MyFirstVRProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF35C33-EF6E-781D-0BD6-9015FA24CB33}|Assembly-CSharp.csproj|c:\\users\\ivrem\\desktop\\myfirstvrproject\\assets\\scripts\\ballthrone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF35C33-EF6E-781D-0BD6-9015FA24CB33}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ballthrone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF35C33-EF6E-781D-0BD6-9015FA24CB33}|Assembly-CSharp.csproj|c:\\users\\ivrem\\desktop\\myfirstvrproject\\assets\\scripts\\ballthrower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF35C33-EF6E-781D-0BD6-9015FA24CB33}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ballthrower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF35C33-EF6E-781D-0BD6-9015FA24CB33}|Assembly-CSharp.csproj|c:\\users\\ivrem\\desktop\\myfirstvrproject\\assets\\scripts\\smoothfollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF35C33-EF6E-781D-0BD6-9015FA24CB33}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\smoothfollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ivrem\\Desktop\\MyFirstVRProject\\Library\\PackageCache\\com.unity.xr.interaction.toolkit@2.6.3\\Runtime\\Interaction\\Controllers\\ActionBasedController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.xr.interaction.toolkit@2.6.3\\Runtime\\Interaction\\Controllers\\ActionBasedController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pirla\\Downloads\\MyFirstVRProject\\MyFirstVRProject\\Assets\\scr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Facultate 3.1\\IMR\\MyFirstVRProject\\Temp\\Compiled-Standard.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ivrem\\Desktop\\MyFirstVRProject\\Assets\\Scripts\\TransformInParticles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\TransformInParticles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ivrem\\Desktop\\MyFirstVRProject\\Assets\\Scripts\\ScoreManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\ScoreManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ivrem\\Desktop\\MyFirstVRProject\\Assets\\OnCollision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\OnCollision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ivrem\\Desktop\\MyFirstVRProject\\assets\\ballthrower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\ballthrower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ivrem\\Desktop\\MyFirstVRProject\\assets\\ballthrone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\ballthrone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ivrem\\Desktop\\MyFirstVRProject\\assets\\balldropper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\balldropper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 216,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TransformInParticles.cs",
+              "DocumentMoniker": "C:\\Users\\ivrem\\Desktop\\MyFirstVRProject\\Assets\\Scripts\\TransformInParticles.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TransformInParticles.cs",
+              "ToolTip": "C:\\Users\\ivrem\\Desktop\\MyFirstVRProject\\Assets\\Scripts\\TransformInParticles.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TransformInParticles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T06:21:25.079Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BallThrone.cs",
+              "DocumentMoniker": "C:\\Users\\ivrem\\Desktop\\MyFirstVRProject\\Assets\\Scripts\\BallThrone.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BallThrone.cs",
+              "ToolTip": "C:\\Users\\ivrem\\Desktop\\MyFirstVRProject\\Assets\\Scripts\\BallThrone.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BallThrone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T07:22:01.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BallThrower.cs",
+              "DocumentMoniker": "C:\\Users\\ivrem\\Desktop\\MyFirstVRProject\\Assets\\Scripts\\BallThrower.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BallThrower.cs",
+              "ToolTip": "C:\\Users\\ivrem\\Desktop\\MyFirstVRProject\\Assets\\Scripts\\BallThrower.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BallThrower.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T07:17:32.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SmoothFollow.cs",
+              "DocumentMoniker": "C:\\Users\\ivrem\\Desktop\\MyFirstVRProject\\Assets\\Scripts\\SmoothFollow.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SmoothFollow.cs",
+              "ToolTip": "C:\\Users\\ivrem\\Desktop\\MyFirstVRProject\\Assets\\Scripts\\SmoothFollow.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SmoothFollow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T07:01:22.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ActionBasedController.cs",
+              "DocumentMoniker": "C:\\Users\\ivrem\\Desktop\\MyFirstVRProject\\Library\\PackageCache\\com.unity.xr.interaction.toolkit@2.6.3\\Runtime\\Interaction\\Controllers\\ActionBasedController.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.xr.interaction.toolkit@2.6.3\\Runtime\\Interaction\\Controllers\\ActionBasedController.cs",
+              "ToolTip": "C:\\Users\\ivrem\\Desktop\\MyFirstVRProject\\Library\\PackageCache\\com.unity.xr.interaction.toolkit@2.6.3\\Runtime\\Interaction\\Controllers\\ActionBasedController.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.xr.interaction.toolkit@2.6.3\\Runtime\\Interaction\\Controllers\\ActionBasedController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T20:53:23.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BallThrower.cs",
+              "DocumentMoniker": "C:\\Users\\ivrem\\Desktop\\MyFirstVRProject\\Assets\\BallThrower.cs",
+              "RelativeDocumentMoniker": "Assets\\BallThrower.cs",
+              "ToolTip": "C:\\Users\\ivrem\\Desktop\\MyFirstVRProject\\Assets\\BallThrower.cs",
+              "RelativeToolTip": "Assets\\BallThrower.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAcwB4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T12:36:07.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BallThrone.cs",
+              "DocumentMoniker": "C:\\Users\\ivrem\\Desktop\\MyFirstVRProject\\Assets\\BallThrone.cs",
+              "RelativeDocumentMoniker": "Assets\\BallThrone.cs",
+              "ToolTip": "C:\\Users\\ivrem\\Desktop\\MyFirstVRProject\\Assets\\BallThrone.cs",
+              "RelativeToolTip": "Assets\\BallThrone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T16:28:21.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OnCollision.cs",
+              "DocumentMoniker": "C:\\Users\\ivrem\\Desktop\\MyFirstVRProject\\Assets\\OnCollision.cs",
+              "RelativeDocumentMoniker": "Assets\\OnCollision.cs",
+              "ToolTip": "C:\\Users\\ivrem\\Desktop\\MyFirstVRProject\\Assets\\OnCollision.cs",
+              "RelativeToolTip": "Assets\\OnCollision.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T13:39:15.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "scr.cs",
+              "DocumentMoniker": "C:\\Users\\pirla\\Downloads\\MyFirstVRProject\\MyFirstVRProject\\Assets\\scr.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\pirla\\Downloads\\MyFirstVRProject\\MyFirstVRProject\\Assets\\scr.cs",
+              "ToolTip": "C:\\Users\\pirla\\Downloads\\MyFirstVRProject\\MyFirstVRProject\\Assets\\scr.cs",
+              "RelativeToolTip": "..\\..\\..\\pirla\\Downloads\\MyFirstVRProject\\MyFirstVRProject\\Assets\\scr.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T12:42:30.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BallDropper.cs",
+              "DocumentMoniker": "C:\\Users\\ivrem\\Desktop\\MyFirstVRProject\\Assets\\BallDropper.cs",
+              "RelativeDocumentMoniker": "Assets\\BallDropper.cs",
+              "ToolTip": "C:\\Users\\ivrem\\Desktop\\MyFirstVRProject\\Assets\\BallDropper.cs",
+              "RelativeToolTip": "Assets\\BallDropper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T14:35:07.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Compiled-Standard.shader",
+              "DocumentMoniker": "D:\\Facultate 3.1\\IMR\\MyFirstVRProject\\Temp\\Compiled-Standard.shader",
+              "ToolTip": "D:\\Facultate 3.1\\IMR\\MyFirstVRProject\\Temp\\Compiled-Standard.shader",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2024-11-14T10:08:03.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ScoreManager.cs",
+              "DocumentMoniker": "C:\\Users\\ivrem\\Desktop\\MyFirstVRProject\\Assets\\Scripts\\ScoreManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScoreManager.cs",
+              "ToolTip": "C:\\Users\\ivrem\\Desktop\\MyFirstVRProject\\Assets\\Scripts\\ScoreManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScoreManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T19:03:58.426Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 284,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
